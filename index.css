@@ -1,0 +1,52 @@
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.gambar img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 30px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.gambar{
+    display: flex;
+    justify-content: space-between;
+
+}
+.tabel {
+    width: 30%;
+    border: 1px solid black;
+}
+.tabel img {
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+}
+.photos{
+    width: 500px;
+    height: 170;
+    padding: 13px;
+    border: none;
+}
+/* .img img{
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+} */
+
+.video video{
+    width: 300px;
+    height: 300px;
+}
+
+.sosmed{
+    margin-top: 50px;
+
+}
